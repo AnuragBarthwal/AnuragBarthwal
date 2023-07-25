@@ -1,0 +1,5 @@
+import numpy as np
+import pandas as pd
+from __future__ import print_function
+!pip install xlrd
+print('xlrd installed')
