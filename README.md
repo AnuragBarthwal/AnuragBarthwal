@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnuragBarthwal
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m @AnuragBarthwal (Dr Anurag Barthwal)
+- 👀 I’m interested in AI, ML and Data Science
 - 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on AI, Data Science
+- 💞️ I’m looking to collaborate on AI, ML, Data Science
 - 📫 How to reach me- ab414@snu.edu.in
 
 <!---
